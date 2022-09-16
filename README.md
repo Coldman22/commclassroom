@@ -4,6 +4,7 @@ We believe that every student, irrespective of their college or branch, can make
 
 All of our courses are FREE. We cover every topic in detail and mentor you to stand out and get opportunities by breaking all the barriers. Get expert guidance with career, Open Source, and internships, jobs around the world.
 
+One of the amazing community to work with is here
 ## Follow & Connect with us
    <a href="https://www.youtube.com/c/CommunityClassroom">
     <img width="30px" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" />
